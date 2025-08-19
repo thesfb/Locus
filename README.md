@@ -17,8 +17,8 @@ Before you begin, ensure you have the **Rust toolchain** installed on your syste
 
 1. **Clone the repository**:
    ```bash
-   git clone <your-repository-url>
-   cd <repository-name>
+   git clone https://github.com/thesfb/Locus.git
+   cd Locus
    ```
 
 2. **Build the project**: Cargo will handle all the dependencies for you.
