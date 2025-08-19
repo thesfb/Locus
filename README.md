@@ -85,9 +85,7 @@ Terminal Notes supports multiple export formats:
 
 Contributions are welcome! Please feel free to submit issues, feature requests, or pull requests.
 
-## License
 
-[Add your license information here]
 
 ---
 
